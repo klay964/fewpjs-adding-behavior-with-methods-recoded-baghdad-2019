@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2020-01-19T06:13:45.574Z",
-    "end": "2020-01-19T06:13:50.936Z",
-    "duration": 5362
+    "start": "2020-01-19T06:17:41.306Z",
+    "end": "2020-01-19T06:17:46.600Z",
+    "duration": 5294
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "\"before all\" hook",
       "fullTitle": "\"before all\" hook",
-      "duration": 5343,
+      "duration": 5272,
       "currentRetry": 0,
       "err": {
         "stack": "Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves.\n    at Object.done (node_modules\\mocha-jsdom\\index.js:70:7)\n    at E:\\fewpjs-adding-behavior-with-methods-recoded-baghdad-2019\\node_modules\\jsdom\\lib\\jsdom.js:325:18\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)",
